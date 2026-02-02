@@ -123,5 +123,6 @@ Este projeto foi desenvolvido como parte de um Trabalho de Conclusão de Curso n
 
 ✍️ Autor
 
-Júlio Cézar
+Júlio Cézar Netto de Araújo
+
 Curso Superior de Tecnologia em Redes de Computadores
